@@ -27,6 +27,25 @@ h1 {
     font-size: 6em;
     text-align: center;
     text-transform: uppercase;
+    color: indianred;
+}
+
+h3 {
+    color: indianred;
+    font-size: 23px;
+}
+p {
+    color: aliceblue;
+    font-size: 18px;
+}
+
+a {
+    color: indianred;
+    text-decoration: none;   
+}
+
+ul {
+    list-style: none;
 }
 
 
