@@ -32,8 +32,8 @@ h1 {
 
 /* Masonry Styling */
 section {
-  background: rgba(183, 182, 182, 0.75);
-  border: 1px solid black;
+  background: rgba(167, 167, 167, 0.88);
+  border: 1px solid #b9abab;
   /* vertical space between */
   margin-bottom: 10px;
   width: 200px;
