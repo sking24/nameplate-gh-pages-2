@@ -64,7 +64,7 @@ MEDIA QUERIES
   
   /* Temporary Styling. Add your own. */
   body {
-       background: blue;
+       background-image: url("/img/bg.jpg");
   }
 
 }
@@ -78,7 +78,7 @@ MEDIA QUERIES
   
   /* Temporary Styling. Add your own. */
   body {
-       background: green;
+       background-image: url("/img/bg.jpg");
   }
 
 }
@@ -92,7 +92,7 @@ MEDIA QUERIES
   
   /* Temporary Styling. Add your own. */
   body {
-       background: red;
+       background-image: url("/img/bg.jpg");
   }
   
 }
