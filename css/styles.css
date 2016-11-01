@@ -27,7 +27,7 @@ h1 {
     font-size: 6em;
     text-align: center;
     text-transform: uppercase;
-    color: indianred;
+    color: rosybrown;
 }
 
 h3 {
@@ -69,6 +69,7 @@ section {
 
 .med {
   height: 400px;
+    color: antiquewhite;
 }
 
 .short {
