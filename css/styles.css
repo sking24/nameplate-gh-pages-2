@@ -31,7 +31,7 @@ h1 {
 }
 
 h3 {
-    color: indianred;
+    color: antiquewhite;
     font-size: 23px;
 }
 p {
@@ -40,14 +40,19 @@ p {
 }
 
 a {
-    color: indianred;
+    color: aliceblue;
     text-decoration: none;   
+    font-size: 19px;
 }
 
 ul {
     list-style: none;
+    color: aliceblue
 }
 
+.interests {
+    list-style-type:square;
+}
 
 /* Masonry Styling */
 section {
